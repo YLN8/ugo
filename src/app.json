@@ -17,8 +17,8 @@
     "list": [{
       "text": "首页",
       "pagePath": "pages/index/main",
-      "iconPath": "static/tabs/home.png",
-      "selectedIconPath": "static/tabs/home-active.png"
+      "iconPath": "static/tabs/icon_home@3x.png",
+      "selectedIconPath": "static/tabs/icon_home_active@3x.png"
     }, {
       "text": "分类",
       "pagePath": "pages/logs/main",
@@ -32,8 +32,7 @@
     }, {
       "text": "我的",
       "pagePath": "pages/logs/main",
-      "icon": "static/tabs/orders.png",
-      "activeIcon": "static/tabs/orders-active.png",
+      "iconPath": "static/tabs/icon_user@3x.png",
       "selectedIconPath": "static/tabs/icon_user_active@3x.png"
     }],
     "position": "bottom"

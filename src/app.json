@@ -1,7 +1,9 @@
 {
   "pages": [
     "pages/index/main",
-    "pages/logs/main"  ],
+    "pages/logs/main" ,
+    "pages/category/main"
+  ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#ea4451",
@@ -21,7 +23,7 @@
       "selectedIconPath": "static/tabs/icon_home_active@3x.png"
     }, {
       "text": "分类",
-      "pagePath": "pages/logs/main",
+      "pagePath": "pages/category/main",
       "iconPath": "static/tabs/icon_category@3x.png",
       "selectedIconPath": "static/tabs/icon_category_active@3x.png"
     }, {

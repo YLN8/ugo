@@ -36,8 +36,8 @@
 			"current": 0,
 			"list": [
 				{
-					"id": -1,
-					"name": " ",
+					"id": 0,
+					"name": " 分类",
 					"pathName": "pages/category/main",
 					"query": "",
 					"scene": null
